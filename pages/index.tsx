@@ -188,7 +188,7 @@ const Home: NextPage = () => {
                   </Web3Button>
                 </div>
                 <div className={styles.mintContainer}>
-                  <button className={styles.button4} onClick={() => location.href='https://paper.xyz/checkout/df015785-6d15-4e32-adc3-0dd6438e592f'}  > Click here for more Payment Options!</button>
+                  <button className={styles.button4} onClick={() => location.href='https://paper.xyz/checkout/43d492ed-798e-4643-8f7a-3da8978a2b9a'}  > Click here for more Payment Options!</button>
                 </div>
 
               </>
